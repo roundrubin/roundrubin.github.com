@@ -4,8 +4,7 @@ title: Rubin Moench
 tagline: v. 2.0.1
 ---
 {% include JB/setup %}
-
-Optimistic, *yet unfulfilled*, amateur in:
+An optimistic, *yet unfulfilled*, amateur in:
 
 * Programming *(Ruby, JS, Perl, Clojure)*
 * Philosophy *(solipsistic empathic)*
