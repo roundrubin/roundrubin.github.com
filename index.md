@@ -12,3 +12,8 @@ An optimistic, *yet unfulfilled*, amateur in:
 * The pursuit of worthiness *(out of reach)*
 
 Read more of me on Twitter: **[@roundrubin](https://twitter.com/roundrubin)**.
+
+I am, by nature, not entirely as I seem. But have a read of my hopefully
+worthy essays and doodles... I hope they offer a distraction from my
+contempories. Truthfully though, this is an experimental sandbox where I 
+spill my mind in the hopes that I will one day empty it.
